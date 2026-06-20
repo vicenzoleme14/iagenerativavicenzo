@@ -1,0 +1,26 @@
+Data,Hora,Tempo_Produção,Máquina,PeçasBoas,Defeitos,Setor,Operador
+2026-04-01,08:00,480,Torno CNC,450,12,Usinagem,João Silva
+2026-04-01,08:00,480,Fresa,320,5,Usinagem,Maria Souza
+2026-04-01,08:00,480,Injetora A,600,15,Plásticos,Carlos Lima
+2026-04-01,08:00,480,Corte Laser,800,8,Corte,Ana Costa
+2026-04-01,14:00,360,Torno CNC,340,18,Usinagem,Marcos Paulo
+2026-04-01,14:00,360,Fresa,210,12,Usinagem,Fernanda Dias
+2026-04-01,14:00,360,Injetora A,450,35,Plásticos,Roberto Alves
+2026-04-02,08:00,480,Torno CNC,460,10,Usinagem,João Silva
+2026-04-02,08:00,480,Fresa,330,4,Usinagem,Maria Souza
+2026-04-02,08:00,480,Injetora A,610,14,Plásticos,Carlos Lima
+2026-04-02,08:00,480,Corte Laser,810,7,Corte,Ana Costa
+2026-04-02,14:00,360,Torno CNC,350,15,Usinagem,Marcos Paulo
+2026-04-02,14:00,360,Fresa,220,10,Usinagem,Fernanda Dias
+2026-04-02,14:00,360,Injetora A,440,40,Plásticos,Roberto Alves
+2026-04-03,08:00,480,Torno CNC,445,14,Usinagem,João Silva
+2026-04-03,08:00,480,Fresa,315,6,Usinagem,Maria Souza
+2026-04-03,08:00,480,Injetora A,590,18,Plásticos,Carlos Lima
+2026-04-03,08:00,480,Corte Laser,790,10,Corte,Ana Costa
+2026-04-03,14:00,360,Torno CNC,330,20,Usinagem,Marcos Paulo
+2026-04-03,14:00,360,Fresa,205,15,Usinagem,Fernanda Dias
+2026-04-03,14:00,360,Injetora A,430,38,Plásticos,Roberto Alves
+2026-04-04,08:00,480,Torno CNC,455,11,Usinagem,João Silva
+2026-04-04,08:00,480,Fresa,325,5,Usinagem,Maria Souza
+2026-04-04,08:00,480,Injetora B,620,12,Plásticos,Carlos Lima
+2026-04-04,08:00,480,Corte Laser,805,9,Corte,Ana Costa
